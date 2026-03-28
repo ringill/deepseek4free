@@ -1,4 +1,4 @@
-curl-cffi==0.11.3
+curl-cffi
 wasmtime
 numpy
 nodriver
