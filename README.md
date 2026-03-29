@@ -11,12 +11,12 @@ I use it with "qwen code"
 {
   "mcpServers": {
     "deepseek-brain": {
-      "command": "python",
+      "command": "c:\\Users\\ringill\\repo\\deepseek4free\\.venv\\Scripts\\python.exe",
       "args": [
-        "C:\\Users\\ringill\\repo\\deepseek4free\\deepseek_mcp_server.py"
+        "C:\\Users\\ringill\\repo\\deepseek4free\\run_server.py"
       ],
       "env": {
-        "PYTHONPATH": "C:\\Users\\ringill\\repo\\deepseek4free"
+        "DEEPSEEK_AUTH_TOKEN": "Tb***rw"
       }
     }
   }
